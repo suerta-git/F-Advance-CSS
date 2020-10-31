@@ -52,3 +52,27 @@ ul {
 .clear-margin {
   margin: 0;
 }
+
+.content {
+  padding: 2rem 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.aside-left {
+  width: 17%;
+}
+
+.about {
+  background-color: rgb(240, 240, 240);
+}
+
+.aside-padding {
+  padding: 1rem;
+}
+
+.sign-in {
+  width: 200px;
+  height: 300px;
+  background-color: rgb(240, 240, 240);
+}
