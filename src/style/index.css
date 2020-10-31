@@ -30,8 +30,25 @@ ul {
   height: 100%;
 }
 
+.full-width {
+  width: 100%;
+}
+
 .nav-links {
   display: flex;
   align-items: center;
   justify-content: space-around;
+}
+
+.footer {
+  background-color: rgb(240, 240, 240);
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  color: gray;
+  padding: 1.5rem 0;
+}
+
+.clear-margin {
+  margin: 0;
 }
